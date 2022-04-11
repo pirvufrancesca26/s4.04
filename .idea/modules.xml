@@ -4,7 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Builder/Builder.iml" filepath="$PROJECT_DIR$/Builder/Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder/autobuzbuilderV2.iml" filepath="$PROJECT_DIR$/Builder/autobuzbuilderV2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factory/probl10.iml" filepath="$PROJECT_DIR$/Factory/probl10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problema11/problema11.iml" filepath="$PROJECT_DIR$/problema11/problema11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problemaa10/problemaa10.iml" filepath="$PROJECT_DIR$/problemaa10/problemaa10.iml" />
       <module fileurl="file://$PROJECT_DIR$/s4.04.iml" filepath="$PROJECT_DIR$/s4.04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factory/untitled.iml" filepath="$PROJECT_DIR$/Factory/untitled.iml" />
     </modules>
   </component>
 </project>
